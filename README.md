@@ -15,9 +15,14 @@ Collection of LeetCode submissions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/singh-vikrant/algorithms/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/singh-vikrant/algorithms/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
