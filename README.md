@@ -6,6 +6,7 @@ Collection of LeetCode submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1894-merge-strings-alternately](https://github.com/singh-vikrant/algorithms/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -27,8 +28,13 @@ Collection of LeetCode submissions
 | ------- |
 | [0001-two-sum](https://github.com/singh-vikrant/algorithms/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
