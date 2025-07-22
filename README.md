@@ -6,6 +6,7 @@ Collection of LeetCode submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singh-vikrant/algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/singh-vikrant/algorithms/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -13,6 +14,7 @@ Collection of LeetCode submissions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singh-vikrant/algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
 | [1894-merge-strings-alternately](https://github.com/singh-vikrant/algorithms/tree/master/1894-merge-strings-alternately) |
@@ -52,6 +54,7 @@ Collection of LeetCode submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/singh-vikrant/algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
