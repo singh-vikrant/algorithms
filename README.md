@@ -70,6 +70,7 @@ Collection of LeetCode submissions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/singh-vikrant/algorithms/tree/master/0002-add-two-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
@@ -79,4 +80,12 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/singh-vikrant/algorithms/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/singh-vikrant/algorithms/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
