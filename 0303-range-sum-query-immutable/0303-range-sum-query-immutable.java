@@ -3,7 +3,6 @@ class NumArray {
     public NumArray(int[] nums) {
         for(int i=1;i<nums.length;i++){
             nums[i]+=nums[i-1];
-            System.out.print(nums[i]+" ");
         }
         this.n = nums;
     }
