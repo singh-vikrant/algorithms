@@ -43,6 +43,7 @@ Collection of LeetCode submissions
 | [0525-contiguous-array](https://github.com/singh-vikrant/algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singh-vikrant/algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
+| [0643-maximum-average-subarray-i](https://github.com/singh-vikrant/algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/singh-vikrant/algorithms/tree/master/0739-daily-temperatures) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Union Find
@@ -103,4 +104,8 @@ Collection of LeetCode submissions
 | [0303-range-sum-query-immutable](https://github.com/singh-vikrant/algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/singh-vikrant/algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singh-vikrant/algorithms/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/singh-vikrant/algorithms/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
