@@ -15,6 +15,7 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/singh-vikrant/algorithms/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/singh-vikrant/algorithms/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
 | [1894-merge-strings-alternately](https://github.com/singh-vikrant/algorithms/tree/master/1894-merge-strings-alternately) |
