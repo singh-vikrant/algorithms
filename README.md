@@ -50,6 +50,7 @@ Collection of LeetCode submissions
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/singh-vikrant/algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/singh-vikrant/algorithms/tree/master/0739-daily-temperatures) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Union Find
 |  |
@@ -83,6 +84,7 @@ Collection of LeetCode submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/singh-vikrant/algorithms/tree/master/0002-add-two-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/singh-vikrant/algorithms/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
@@ -91,6 +93,7 @@ Collection of LeetCode submissions
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
@@ -119,4 +122,8 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/singh-vikrant/algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
