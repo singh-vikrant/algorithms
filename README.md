@@ -83,6 +83,7 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singh-vikrant/algorithms/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/singh-vikrant/algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/singh-vikrant/algorithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -99,6 +100,7 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singh-vikrant/algorithms/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/singh-vikrant/algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
