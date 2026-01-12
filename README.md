@@ -26,6 +26,7 @@ Collection of LeetCode submissions
 | ------- |
 | [0001-two-sum](https://github.com/singh-vikrant/algorithms/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/singh-vikrant/algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/singh-vikrant/algorithms/tree/master/0525-contiguous-array) |
@@ -35,6 +36,7 @@ Collection of LeetCode submissions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 ## Array
 |  |
@@ -44,6 +46,7 @@ Collection of LeetCode submissions
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/singh-vikrant/algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/singh-vikrant/algorithms/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/singh-vikrant/algorithms/tree/master/0303-range-sum-query-immutable) |
@@ -125,9 +128,14 @@ Collection of LeetCode submissions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/singh-vikrant/algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Combinatorics
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
