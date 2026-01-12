@@ -10,6 +10,7 @@ Collection of LeetCode submissions
 | [0011-container-with-most-water](https://github.com/singh-vikrant/algorithms/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/singh-vikrant/algorithms/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/singh-vikrant/algorithms/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -44,6 +45,7 @@ Collection of LeetCode submissions
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/singh-vikrant/algorithms/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/singh-vikrant/algorithms/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/singh-vikrant/algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/singh-vikrant/algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singh-vikrant/algorithms/tree/master/0560-subarray-sum-equals-k) |
