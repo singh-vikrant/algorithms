@@ -52,6 +52,7 @@ Collection of LeetCode submissions
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singh-vikrant/algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/singh-vikrant/algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/singh-vikrant/algorithms/tree/master/0219-contains-duplicate-ii) |
@@ -150,4 +151,8 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/singh-vikrant/algorithms/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
