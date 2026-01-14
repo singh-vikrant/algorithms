@@ -44,6 +44,7 @@ Collection of LeetCode submissions
 | [0001-two-sum](https://github.com/singh-vikrant/algorithms/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/singh-vikrant/algorithms/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singh-vikrant/algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
@@ -70,11 +71,13 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singh-vikrant/algorithms/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singh-vikrant/algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/singh-vikrant/algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singh-vikrant/algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
