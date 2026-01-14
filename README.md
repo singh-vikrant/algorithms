@@ -9,6 +9,7 @@ Collection of LeetCode submissions
 | [0005-longest-palindromic-substring](https://github.com/singh-vikrant/algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/singh-vikrant/algorithms/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/singh-vikrant/algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/singh-vikrant/algorithms/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/singh-vikrant/algorithms/tree/master/0392-is-subsequence) |
@@ -18,6 +19,7 @@ Collection of LeetCode submissions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/singh-vikrant/algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/singh-vikrant/algorithms/tree/master/0006-zigzag-conversion) |
+| [0151-reverse-words-in-a-string](https://github.com/singh-vikrant/algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/singh-vikrant/algorithms/tree/master/0392-is-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
