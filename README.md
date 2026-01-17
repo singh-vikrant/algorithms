@@ -166,4 +166,8 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/singh-vikrant/algorithms/tree/master/0535-encode-and-decode-tinyurl) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
