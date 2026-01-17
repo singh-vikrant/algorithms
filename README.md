@@ -19,6 +19,7 @@ Collection of LeetCode submissions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/singh-vikrant/algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/singh-vikrant/algorithms/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/singh-vikrant/algorithms/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/singh-vikrant/algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/singh-vikrant/algorithms/tree/master/0392-is-subsequence) |
@@ -30,6 +31,7 @@ Collection of LeetCode submissions
 | ------- |
 | [0001-two-sum](https://github.com/singh-vikrant/algorithms/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/singh-vikrant/algorithms/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/singh-vikrant/algorithms/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/singh-vikrant/algorithms/tree/master/0219-contains-duplicate-ii) |
@@ -41,6 +43,7 @@ Collection of LeetCode submissions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/singh-vikrant/algorithms/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 ## Array
@@ -50,6 +53,7 @@ Collection of LeetCode submissions
 | [0011-container-with-most-water](https://github.com/singh-vikrant/algorithms/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/singh-vikrant/algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/singh-vikrant/algorithms/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singh-vikrant/algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/singh-vikrant/algorithms/tree/master/0136-single-number) |
