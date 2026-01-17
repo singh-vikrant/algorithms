@@ -23,6 +23,7 @@ Collection of LeetCode submissions
 | [0151-reverse-words-in-a-string](https://github.com/singh-vikrant/algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/singh-vikrant/algorithms/tree/master/0392-is-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/singh-vikrant/algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
 | [1894-merge-strings-alternately](https://github.com/singh-vikrant/algorithms/tree/master/1894-merge-strings-alternately) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/singh-vikrant/algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -37,6 +38,7 @@ Collection of LeetCode submissions
 | [0219-contains-duplicate-ii](https://github.com/singh-vikrant/algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/singh-vikrant/algorithms/tree/master/0525-contiguous-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/singh-vikrant/algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/singh-vikrant/algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/singh-vikrant/algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -130,6 +132,7 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/singh-vikrant/algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/singh-vikrant/algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,4 +162,8 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/singh-vikrant/algorithms/tree/master/0136-single-number) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/singh-vikrant/algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
