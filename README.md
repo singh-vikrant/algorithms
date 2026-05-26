@@ -109,6 +109,7 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singh-vikrant/algorithms/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/singh-vikrant/algorithms/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/singh-vikrant/algorithms/tree/master/0070-climbing-stairs) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/singh-vikrant/algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/singh-vikrant/algorithms/tree/master/1817-calculate-money-in-leetcode-bank) |
