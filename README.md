@@ -118,6 +118,7 @@ Collection of LeetCode submissions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/singh-vikrant/algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -128,6 +129,7 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/singh-vikrant/algorithms/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/singh-vikrant/algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/singh-vikrant/algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -162,6 +164,7 @@ Collection of LeetCode submissions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/singh-vikrant/algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
@@ -179,4 +182,8 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/singh-vikrant/algorithms/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/singh-vikrant/algorithms/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
