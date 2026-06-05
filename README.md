@@ -97,6 +97,7 @@ Collection of LeetCode submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singh-vikrant/algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/singh-vikrant/algorithms/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/singh-vikrant/algorithms/tree/master/0392-is-subsequence) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/singh-vikrant/algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Collection of LeetCode submissions
 | [1817-calculate-money-in-leetcode-bank](https://github.com/singh-vikrant/algorithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/singh-vikrant/algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -194,4 +196,8 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/singh-vikrant/algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/singh-vikrant/algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
