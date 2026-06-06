@@ -56,6 +56,7 @@ Collection of LeetCode submissions
 | [0011-container-with-most-water](https://github.com/singh-vikrant/algorithms/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/singh-vikrant/algorithms/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/singh-vikrant/algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/singh-vikrant/algorithms/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singh-vikrant/algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
@@ -200,4 +201,8 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/singh-vikrant/algorithms/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/singh-vikrant/algorithms/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
