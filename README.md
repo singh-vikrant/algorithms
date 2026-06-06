@@ -58,6 +58,7 @@ Collection of LeetCode submissions
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/singh-vikrant/algorithms/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/singh-vikrant/algorithms/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/singh-vikrant/algorithms/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singh-vikrant/algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/singh-vikrant/algorithms/tree/master/0136-single-number) |
@@ -176,6 +177,7 @@ Collection of LeetCode submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/singh-vikrant/algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/singh-vikrant/algorithms/tree/master/0136-single-number) |
 ## Hash Function
 |  |
@@ -205,4 +207,5 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/singh-vikrant/algorithms/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/singh-vikrant/algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
