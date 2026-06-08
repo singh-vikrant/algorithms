@@ -75,6 +75,7 @@ Collection of LeetCode submissions
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/singh-vikrant/algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/singh-vikrant/algorithms/tree/master/0739-daily-temperatures) |
+| [1470-shuffle-the-array](https://github.com/singh-vikrant/algorithms/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/singh-vikrant/algorithms/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/singh-vikrant/algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
