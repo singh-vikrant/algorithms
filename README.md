@@ -42,6 +42,7 @@ Collection of LeetCode submissions
 | [0560-subarray-sum-equals-k](https://github.com/singh-vikrant/algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
 | [0645-set-mismatch](https://github.com/singh-vikrant/algorithms/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/singh-vikrant/algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/singh-vikrant/algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode submissions
 | [0215-kth-largest-element-in-an-array](https://github.com/singh-vikrant/algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/singh-vikrant/algorithms/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/singh-vikrant/algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode submissions
 | [0643-maximum-average-subarray-i](https://github.com/singh-vikrant/algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/singh-vikrant/algorithms/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/singh-vikrant/algorithms/tree/master/0739-daily-temperatures) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/singh-vikrant/algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/singh-vikrant/algorithms/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/singh-vikrant/algorithms/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -216,4 +219,8 @@ Collection of LeetCode submissions
 | ------- |
 | [0046-permutations](https://github.com/singh-vikrant/algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/singh-vikrant/algorithms/tree/master/0078-subsets) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/singh-vikrant/algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
