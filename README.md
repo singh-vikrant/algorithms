@@ -41,6 +41,7 @@ Collection of LeetCode submissions
 | [0535-encode-and-decode-tinyurl](https://github.com/singh-vikrant/algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/singh-vikrant/algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
+| [0645-set-mismatch](https://github.com/singh-vikrant/algorithms/tree/master/0645-set-mismatch) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/singh-vikrant/algorithms/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
@@ -49,6 +50,7 @@ Collection of LeetCode submissions
 | [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/singh-vikrant/algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/singh-vikrant/algorithms/tree/master/0645-set-mismatch) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Collection of LeetCode submissions
 | [0560-subarray-sum-equals-k](https://github.com/singh-vikrant/algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/singh-vikrant/algorithms/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/singh-vikrant/algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/singh-vikrant/algorithms/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/singh-vikrant/algorithms/tree/master/0739-daily-temperatures) |
 | [1470-shuffle-the-array](https://github.com/singh-vikrant/algorithms/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/singh-vikrant/algorithms/tree/master/1929-concatenation-of-array) |
@@ -183,6 +186,7 @@ Collection of LeetCode submissions
 | ------- |
 | [0078-subsets](https://github.com/singh-vikrant/algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/singh-vikrant/algorithms/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/singh-vikrant/algorithms/tree/master/0645-set-mismatch) |
 ## Hash Function
 |  |
 | ------- |
