@@ -67,6 +67,7 @@ Collection of LeetCode submissions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/singh-vikrant/algorithms/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/singh-vikrant/algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/singh-vikrant/algorithms/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/singh-vikrant/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singh-vikrant/algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/singh-vikrant/algorithms/tree/master/0198-house-robber) |
@@ -116,6 +117,7 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/singh-vikrant/algorithms/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/singh-vikrant/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/singh-vikrant/algorithms/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/singh-vikrant/algorithms/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
@@ -129,6 +131,7 @@ Collection of LeetCode submissions
 | [0002-add-two-numbers](https://github.com/singh-vikrant/algorithms/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/singh-vikrant/algorithms/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/singh-vikrant/algorithms/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/singh-vikrant/algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/singh-vikrant/algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/singh-vikrant/algorithms/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/singh-vikrant/algorithms/tree/master/2324-find-triangular-sum-of-an-array) |
