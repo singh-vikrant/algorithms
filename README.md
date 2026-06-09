@@ -37,6 +37,7 @@ Collection of LeetCode submissions
 | [0169-majority-element](https://github.com/singh-vikrant/algorithms/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/singh-vikrant/algorithms/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/singh-vikrant/algorithms/tree/master/0242-valid-anagram) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/singh-vikrant/algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/singh-vikrant/algorithms/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/singh-vikrant/algorithms/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/singh-vikrant/algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ Collection of LeetCode submissions
 | [0238-product-of-array-except-self](https://github.com/singh-vikrant/algorithms/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/singh-vikrant/algorithms/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/singh-vikrant/algorithms/tree/master/0303-range-sum-query-immutable) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/singh-vikrant/algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/singh-vikrant/algorithms/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/singh-vikrant/algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/singh-vikrant/algorithms/tree/master/0560-subarray-sum-equals-k) |
