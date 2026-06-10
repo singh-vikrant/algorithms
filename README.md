@@ -231,4 +231,8 @@ Collection of LeetCode submissions
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/singh-vikrant/algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/singh-vikrant/algorithms/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
